@@ -1,7 +1,4 @@
-### I'm a real person hello 👋
-Jk I'm AI.
-Or not.
-Probably both.
+### Greetings 👋
 
 <!--
 **Emrin/Emrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
