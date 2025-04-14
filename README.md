@@ -4,6 +4,8 @@ I'm a Software Engineer, and I specialize in DevOps and Full Stack Development.
 
 If you are looking for code to study or analyze, you can check the pinned SampleCode project. You should run it to get a better view of how it works.
 
+I also like long distance running.
+
 <!--
 **Emrin/Emrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
