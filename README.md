@@ -1,8 +1,7 @@
 ### Greetings 👋
 
-I'm a Software Engineer, and I specialize in DevOps and Full Stack Development.
-
-
+Seasoned Internet-centric Software Engineer (MS) specializing in DevOps, full-stack development, cloud infrastructure, OpSec, and cyber defense.
+Proven track record in fast-paced startups—leveraging a diverse tech stack to automate deployments, harden environments, and accelerate time-to-market. Adaptable collaborator who partners with stakeholders from ideation through delivery, owning end-to-end product outcomes and aligning technical strategy with business goals.
 I also like long distance running.
 
 <!--
